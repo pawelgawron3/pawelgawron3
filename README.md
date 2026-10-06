@@ -7,8 +7,7 @@
 
 - 🎓 Master's student in Computer Science
 - 🔭 I’m currently working on [Chess Engine](https://github.com/pawelgawron3/chess-engine) & [Cloudora Weather App](https://github.com/pawelgawron3/odin-weather-app)
-- 🌱 I’m currently learning **React** and **Python**
-- 💬 Ask me about **C#**
+- 🌱 I’m currently learning **Node.js** and **Python**
 
 ---
 
@@ -37,4 +36,14 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pawelgawron3&theme=tokyonight&count_private=true&border_radius=10&locale=en" />
+</p>
+
+---
+
+<h3 align="center">📊 LeetCode Stats</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/pawelgawron3">
+    <img src="https://leetcard.jacoblin.cool/pawelgawron3?theme=dark" alt="LeetCode Stats" />
+  </a>
 </p>
